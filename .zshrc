@@ -70,6 +70,7 @@ export PATH=$PATH:$HOME/.local/bin
 export PATH=$PATH:$HOME/go/bin/
 export PATH=$PATH:$HOME/.emacs.d/bin
 export PATH=$PATH:$HOME/.rvm/bin/
+export PATH=$PATH:/opt/homebrew/anaconda3/bin
 
 # Make alacritty not case sensitive:
 zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}' 'r:|=*' 'l:|=* r:|=*'
